@@ -8,7 +8,7 @@
 ✉️ Contact me: [shawaiz.datascience.soft.eng@gmail.com](mailto:shawaiz.datascience.soft.eng@gmail.com)  
 🧠 Currently exploring LLMs, Speech Recognition, Flask, and Computer Vision  
 🤝 Open to collaborating on Chatbots, Web Development, AI/ML, and NLP projects  
-⚡ Secretly a philosopher… but shh 🤫
+
 
 ---
 
