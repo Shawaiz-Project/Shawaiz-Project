@@ -17,7 +17,7 @@ I'm a storyteller at heart and a data enthusiast who loves turning complex probl
 ---
 
 ## Contribution Snake
-![Snake animation](https://github.com/denvercoder1/github-readme-snake.svg)
+![Snake animation](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
