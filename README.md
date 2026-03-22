@@ -161,8 +161,8 @@ Here are some highlights of my work:
 - 🔗 https://ccms-data-scraper.vercel.app/
 
 ## GitHub Stats
-
-![Shawaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawaiz-Project&show_icons=true&theme=radical)
+[
+![Shawaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawaiz-Project&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Shawaiz-Project&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawaiz-Project&layout=compact&theme=radical)
 
