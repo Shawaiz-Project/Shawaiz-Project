@@ -69,8 +69,35 @@ Here are some highlights of my work:
 - Speech Recognition Systems  
 - Flask Web Development  
 - Advanced Computer Vision Techniques  
+- React Web development
 
 ---
+## 🔥 LIVE PROJECT ECOSYSTEM
+### 🌐 PRODUCTION PROJECTS
+
+#### 📊 Data Mining Platform
+
+- 🔗 https://data-mining-v1.vercel.app/
+
+#### 📊 Advanced Data Mining
+
+- 🔗 https://advance-data-mining.vercel.app/
+
+#### 🛠 Digital Toolkit Hub
+
+- 🔗 https://digital-toolkit-hub.vercel.app/
+
+#### 🤖 AI Detector
+
+- 🔗 https://ai-detector-shawaiz.vercel.app/
+
+#### 🌐 Content Hub
+
+🔗 https://content-hub--almalm7329.replit.app/
+
+#### 📡 Data Scraper
+
+🔗 https://ccms-data-scraper.vercel.app/
 
 ## GitHub Stats
 
