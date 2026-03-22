@@ -100,6 +100,13 @@ I'm a storyteller at heart and a data enthusiast who loves turning complex probl
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-Intermediate-red?style=for-the-badge&logo=raspberrypi)
 
 ---
+## 🧑‍💼 Leadership & Soft Skills
+- Strategic Planning & Business Development
+- Stakeholder Communication & Presentation
+- Team Leadership & Collaboration
+- Mentorship & Curriculum Development
+- Research & Analytical Thinking
+- Project Management & Execution
 
 ## 🌐 CONNECT
 - GitHub: https://github.com/Shawaiz-Project
@@ -113,8 +120,7 @@ Here are some highlights of my work:
 
 - **Memory Mirror** – Voice-based mood tracker  
 - **Auto File Organizer** – AI-powered file manager  
-- **AI Dream Analyzer** – NLP-based dream journaling  
-- *(Add screenshots or links to live demos for each project)*  
+- **AI Dream Analyzer** – NLP-based dream journaling   
 
 ---
 
@@ -182,6 +188,16 @@ Here are some highlights of my work:
 </p>
 ---
 
-## Fun Corner
+## 😄 Fun Side
+- 🎨 Sketching & creativity
+- 🤖 Experimenting with AI tools
+- 🚀 Building new tech ideas daily
+---
+## 💬 Final Note
 
-Cheers if you've read till here. Here's a cute cat for you 🐱
+If you’re building something exciting or need a developer who can turn ideas into real systems —
+
+👉 Let’s collaborate and build something impactful.
+
+
+                         ⭐ “Code is not just syntax — it's a tool to shape the future.”
