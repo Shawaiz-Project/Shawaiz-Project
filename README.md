@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shawaiz
+# Hi 👋 I'm Shawaiz Ali
 
 ## Data Scientist | AI Enthusiast | Software Engineer | Automation Lover
 
