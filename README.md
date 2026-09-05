@@ -2,7 +2,7 @@
 
 ## Data Scientist | AI Enthusiast | Software Engineer | Automation Lover
 
-
+ 
 🌍 Based in Pakistan  
 🖥️ Check out my portfolio: [Portfolio](https://shawaizali196.pythonanywhere.com)  
 ✉️ Contact me: [shawaiz.datascience.soft.eng@gmail.com](mailto:shawaiz.datascience.soft.eng@gmail.com)  
