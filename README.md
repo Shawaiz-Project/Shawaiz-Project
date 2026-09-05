@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shawaiz Ali
 
-## Data Scientist | AI Enthusiast | Software Engineer | Automation Lover
+## Data Scientist | AI Enthusiast | Software Engineer | Automation Lover 
 
  
 🌍 Based in Pakistan  
