@@ -11,10 +11,20 @@
 
 
 ---
-
 ## About Me
 
-I’m a Data Scientist & AI/ML Engineer passionate about transforming data into intelligent, practical, and scalable solutions. I am a storyteller at heart and a data enthusiast who loves turning complex problems into elegant solutions, always aiming to connect numbers to real-world impact.I work across the complete Data Science and Machine Learning lifecycle, from data collection, cleaning, preprocessing, EDA, and feature engineering to model development, evaluation, deployment, and optimization. I specialize in Python, Machine Learning, Deep Learning, Data Analysis, SQL, and AI-powered application development.My technical work includes Machine Learning, Deep Learning, NLP, Generative AI, data mining, automation, and predictive analytics. I also build interactive AI and data applications using Flask, Streamlit, and modern web technologies. Beyond building systems, I have helped organizations leverage data-driven insights to improve business outcomes and actively mentor aspiring data scientists to become confident in analytics.I’m continuously exploring LLMs, RAG systems, Generative AI, automation, and MLOps to build reliable and impactful AI solutions.My goal is simple: turn data into intelligence, and intelligence into real-world impact.
+I’m a **Data Scientist & AI/ML Engineer** passionate about transforming data into intelligent, practical, and scalable solutions. I’m a storyteller at heart and a data enthusiast who enjoys turning complex problems into elegant solutions while connecting data, technology, and real-world impact.
+
+I work across the **end-to-end Data Science and Machine Learning lifecycle**, including data collection, cleaning, preprocessing, exploratory data analysis (EDA), feature engineering, model development, evaluation, deployment, and optimization. My core expertise includes **Python, Machine Learning, Deep Learning, Data Analysis, SQL, Data Mining, and AI-powered application development**.
+
+My technical work spans **Machine Learning, Deep Learning, Natural Language Processing (NLP), Generative AI, predictive analytics, data mining, automation, and intelligent application development**. I also build interactive data and AI applications using **Flask, Streamlit, and modern web technologies**, with a focus on creating practical and user-oriented solutions.
+
+Beyond developing technical systems, I’m interested in applying **data-driven insights to real-world business and research problems**. I also enjoy mentoring aspiring data scientists, helping them develop practical skills and become more confident in working with data, analytics, and machine learning.
+
+I’m continuously exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Generative AI, AI agents, automation, and MLOps** to develop more reliable, scalable, and impactful intelligent systems.
+
+**My goal is simple: turn data into intelligence, and intelligence into real-world impact.**
+
 ---
 
 ## Contribution Snake
