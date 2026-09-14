@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shawaiz Ali
 
-## Data Scientist | AI Enthusiast | Software Engineer | Automation Lover 
+## Data Scientist & AI/ML Engineer & MLOps Practitioner 
 
  
 🌍 Based in Pakistan  
@@ -14,8 +14,7 @@
 
 ## About Me
 
-I'm a storyteller at heart and a data enthusiast who loves turning complex problems into elegant solutions. I’ve helped organizations leverage data-driven insights to improve business outcomes, and I mentor aspiring data scientists to become confident in analytics. Passionate about Machine Learning and Data Science, I aim to connect numbers to real-world impact.
-
+I’m a Data Scientist & AI/ML Engineer passionate about transforming data into intelligent, practical, and scalable solutions. I am a storyteller at heart and a data enthusiast who loves turning complex problems into elegant solutions, always aiming to connect numbers to real-world impact.I work across the complete Data Science and Machine Learning lifecycle, from data collection, cleaning, preprocessing, EDA, and feature engineering to model development, evaluation, deployment, and optimization. I specialize in Python, Machine Learning, Deep Learning, Data Analysis, SQL, and AI-powered application development.My technical work includes Machine Learning, Deep Learning, NLP, Generative AI, data mining, automation, and predictive analytics. I also build interactive AI and data applications using Flask, Streamlit, and modern web technologies. Beyond building systems, I have helped organizations leverage data-driven insights to improve business outcomes and actively mentor aspiring data scientists to become confident in analytics.I’m continuously exploring LLMs, RAG systems, Generative AI, automation, and MLOps to build reliable and impactful AI solutions.My goal is simple: turn data into intelligence, and intelligence into real-world impact.
 ---
 
 ## Contribution Snake
