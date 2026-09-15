@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shawaiz Ali
 
-##                     Data Scientist & AI/ML Engineer & MLOps Practitioner 
+##                     Data Scientist & AI/ML Engineer & MLOps Practitioner  
 
  
 🌍 Based in Pakistan  
