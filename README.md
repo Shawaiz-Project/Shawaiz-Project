@@ -166,24 +166,28 @@ Here are some highlights of my work:
 
 - 🔗 https://ccms-data-scraper.vercel.app/
 
-## GitHub Stats
-[
-![Shawaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawaiz-Project&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Shawaiz-Project&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shawaiz-Project&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shawaiz-Project&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawaiz-Project&layout=compact&theme=radical&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shawaiz-Project&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawaiz-Project&theme=react-dark&hide_border=true" />
+</p>
 
-
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shawaiz-Project&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shawaiz-Project&theme=react-dark)
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shawaiz-Project&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Shawaiz-Project&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
 </p>
 
 
