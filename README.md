@@ -163,7 +163,7 @@ Here are some highlights of my work:
 - 🔗 https://content-hub--almalm7329.replit.app/
 
 #### 📡 Data Scraper
-
+- Gujranwala Electric and Power Company
 - 🔗 https://ccms-data-scraper.vercel.app/
 
 ## 📊 GitHub Stats
