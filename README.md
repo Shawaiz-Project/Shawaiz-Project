@@ -5,6 +5,7 @@
  
 🌍 Based in Pakistan  
 🖥️ Check out my portfolio: [Portfolio](https://shawaizali196.pythonanywhere.com)
+
 👤 Check out my profile: [Profile](https://shawaiz-project.github.io/)
 ✉️ Contact me: [shawaiz.datascience.soft.eng@gmail.com](mailto:shawaiz.datascience.soft.eng@gmail.com)  
 🧠 Currently exploring LLMs, RAG, Flask, and Computer Vision  
