@@ -167,6 +167,11 @@ Here are some highlights of my work:
 - Gujranwala Electric and Power Company
 - 🔗 https://ccms-data-scraper.vercel.app/
 
+<div align="center">
+  <img alt="Gradient Snake" src="https://raw.githubusercontent.com/Shawaiz-Project/Shawaiz-Project/output/snake.svg" width="100%">
+</div>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
